@@ -169,6 +169,7 @@ h1, .text-intro-wrap .text-intro h1 em{
 	margin-bottom: 50px;
 }
 .wedding-section.wedding-wedding-countdown {
+	overflow: hidden;
 	padding: 50px 0 40px;
 }
 .wedding-form label,
@@ -208,23 +209,23 @@ h1, .text-intro-wrap .text-intro h1 em{
 
 .wedding-section.wedding-wedding-countdown {
 	background-color: #fff;
-
+}
 .wedding-section.wedding-wedding-countdown .container {
 	background-color: #fff;
   	padding: 60px 0;
 }
 
 .wedding-section.wedding-wedding-countdown h4 {
-	color: #f12e2e;
+	/* color: #f12e2e; */
 	display: inline-block;
 	border-bottom: 2px solid #f12e2e;
 	padding-bottom: 7px;
 }
 
 .wedding-section.wedding-wedding-countdown .date-countdown > div .simply-amount, .wedding-section.wedding-wedding-countdown .date-countdown > div .simply-word {
-  	color: #f12e2e;
+  	/* color: #f12e2e; */
 }
 
 .date-countdown > div .simply-amount {
-	color: #f12e2e;
+	/* color: #f12e2e; */
 }
