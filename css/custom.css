@@ -1,0 +1,230 @@
+h1, .text-intro-wrap .text-intro h1 em{
+	font-weight: 400;
+}
+.text-intro-wrap .text-intro h1 {
+}
+.text-intro-wrap .text-intro h1 em {
+	position: relative;
+	right: 30px;
+}
+.text-intro-wrap .text-intro h1 .second-text {
+}
+.text-intro-wrap .text-intro h2 {
+	font-weight: 400;
+	font-family: "Lato", sans-serif;
+	margin-top: 30px;
+	font-size: 28px;
+	position: relative !important;
+}
+.flexslider .slides>li {
+	position: relative;
+}
+.flexslider .slides>li:before {
+	content: "";
+	display: block;
+	opacity: .7;
+	background: #C33764;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #1D2671, #C33764);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+.wedding-groom-bride .wedding-bride img, .wedding-groom-bride .wedding-divider img, .wedding-groom-bride .wedding-groom img {
+	width: 453px;
+	height: 454px;
+	object-fit: cover;
+}
+.date-hero {
+	color: #fff;
+	border-bottom: 2px solid;
+	padding-bottom: 3px;
+}
+.wedding-navbar .navbar-nav > li > a {
+
+	font-family: "Lato", sans-serif;
+}
+.wedding-navbar .navbar-nav > li > a:hover {
+	color: #f23030 !important;
+}
+.wedding-navbar .navbar-nav > li.active > a {
+	color: #f23030 !important;
+}
+
+.wedding-groom-bride .wedding-groom, .wedding-groom-bride .wedding-bride {
+	background-color: #fff;
+	position: relative;
+	padding-bottom: 0;
+	display: block;
+	width: 454px;
+	border:  0;
+	padding: 0;
+}
+.wedding-groom-bride .wedding-bride img, .wedding-groom-bride .wedding-divider img, .wedding-groom-bride .wedding-groom img {
+	width: 100%;
+	height: 454px;
+	object-fit: cover;
+	border-radius: 0;
+	box-shadow: 0px 2px 4px #00000036;
+	padding: 10px;
+	padding: 10px;
+	background-color: #FFFFFF;
+	box-shadow: 0px 12px 20px rgba(36,37,38,0.18);
+}
+.groom-text {
+	margin-top: 20px;
+	left: 20px;
+	right: 20px;
+	bottom: 20px;
+	padding: 12px;
+}
+.wedding-groom-bride .wedding-caption {
+	margin: 0;
+	text-align: right;
+	color: #f23030;
+}
+.wedding-groom-bride h2 {
+	font-size: 2rem;
+	text-align: right;
+	color: #404040;
+	margin: 0;
+}
+.wedding-groom-bride .wedding-bride {
+	margin-left: auto;
+}
+.wedding-bride .groom-text {
+}
+.wedding-bride .wedding-caption {
+	margin: 0;
+	text-align: left;
+}
+.wedding-bride h2 {
+	font-size: 2rem;
+	color: #404040;
+	text-align: left;
+}
+.wedding-groom-bride .wedding-divider span {
+	position: relative;
+	left: 15px;
+}
+
+
+	@-webkit-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@-moz-keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 50%
+	}
+	50% {
+		background-position: 100% 50%
+	}
+	100% {
+		background-position: 0% 50%
+	}
+}
+.wedding-section.wedding-section-colored {
+	background-color: #eee;	
+}
+.wedding-wedding-countdown h4 {
+	color: #404040;
+	display: inline-block;
+	border-bottom: 2px solid #f12e2e;
+	padding-bottom: 7px;
+}
+.date-countdown > div .simply-amount {
+	color: #404040;
+}
+.date-countdown > div .simply-word {
+	color: #000;
+}
+.wedding-wedding-countdown h4 {
+	margin-bottom: 50px;
+}
+.wedding-section.wedding-wedding-countdown {
+	padding: 50px 0 40px;
+}
+.wedding-form label,
+.wedding-section-form p,
+.wedding-form input {
+
+	font-family: "Lato", sans-serif;
+}
+.wedding-section-form {
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+	position: relative;
+}
+.wedding-section-form:before {
+	background-color: #000;
+	content: "";
+	display: block;
+	opacity: .5;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;	
+}
+.wedding-section-form h2,
+.wedding-section-form p {
+	color: #fff;
+}
+.wedding-section-form .wedding-card {
+	background-color: rgba(255, 255, 255, 0.9);
+	border: 0;
+	box-shadow: 0px 12px 20px rgba(36,37,38,0.08);
+}
+
+
+
+.wedding-section.wedding-wedding-countdown {
+	background-color: #fff;
+
+.wedding-section.wedding-wedding-countdown .container {
+	background-color: #fff;
+  	padding: 60px 0;
+}
+
+.wedding-section.wedding-wedding-countdown h4 {
+	color: #f12e2e;
+	display: inline-block;
+	border-bottom: 2px solid #f12e2e;
+	padding-bottom: 7px;
+}
+
+.wedding-section.wedding-wedding-countdown .date-countdown > div .simply-amount, .wedding-section.wedding-wedding-countdown .date-countdown > div .simply-word {
+  	color: #f12e2e;
+}
+
+.date-countdown > div .simply-amount {
+	color: #f12e2e;
+}
