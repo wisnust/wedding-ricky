@@ -1705,3 +1705,12 @@ h1, .text-intro-wrap .text-intro h1 em {
     display: block;
   }
 }
+
+@media (max-width: 343px) {
+  body .text-intro-wrap .text-intro h1 em {
+    margin-left: 160px;
+  }
+  body .text-intro-wrap .text-intro h1 .second-text {
+    margin-left: 140px;
+  }
+}
