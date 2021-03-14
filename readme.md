@@ -1,1 +1,1 @@
-# Wedding Ricky
+# wedding-ricky
