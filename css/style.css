@@ -1042,7 +1042,7 @@ a:hover, a:focus, a:active {
   border: none;
   margin: 0 0 0;
 }
-@media (max-width: 767px) {
+@media (max-width: 997px) {
 	.flexslider {
 		height: 420px;
 	}
@@ -1638,7 +1638,7 @@ h1, .text-intro-wrap .text-intro h1 em {
 }
 
 
-@media (max-width: 767px) {
+@media (max-width: 997px) {
   body .flexslider .slides > li {
     height: 420px;
   }
@@ -1703,6 +1703,9 @@ h1, .text-intro-wrap .text-intro h1 em {
   }
   body .wedding-groom-bride {
     display: block;
+  }
+  body .wedding-navbar .navbar-nav > li > a {
+    padding: 10px 15px !important;
   }
 }
 
