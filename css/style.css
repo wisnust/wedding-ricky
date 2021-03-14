@@ -639,10 +639,26 @@ a:hover, a:focus, a:active {
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
-  height: 400px;
+  height: 460px;
   position: relative;
 }
+#map .wedding-title {
+  position: relative;
+}
+#map h4 {
+  margin-top: 0;
+}
+#map .open-gmaps {
+  position: absolute; top: 0; right: 0;
+}
 
+@media (max-width: 997px) {
+  #map .open-gmaps {
+    position: relative;
+    display: block;
+    top: -10px;
+  }
+}
 @media screen and (max-width: 768px) {
   #map {
     height: 200px;
