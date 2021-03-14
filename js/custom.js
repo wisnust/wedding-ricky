@@ -355,12 +355,12 @@
 
 		// Initialize Firebase
 		var config = {
-			apiKey: "AIzaSyAm05fI_oYuaknsHRZ-V5XprwansegNbvs",
-			authDomain: "wedding-lili-c6cb7.firebaseapp.com",
-			databaseURL: "https://wedding-lili-c6cb7.firebaseio.com",
-			projectId: "wedding-lili-c6cb7",
-			storageBucket: "wedding-lili-c6cb7.appspot.com",
-			messagingSenderId: "408146927393"
+			apiKey: "AIzaSyCgoIaNTTVVETtTpChMCiOu9QmbmxBUgng",
+			authDomain: "wedding-ricky.firebaseapp.com",
+			databaseURL: "https://wedding-ricky.firebaseapp.com",
+			projectId: "wedding-ricky",
+			storageBucket: "wedding-ricky.appspot.com",
+			messagingSenderId: "1066271094116"
 		};
 		firebase.initializeApp(config);
 
